@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="src" path=".apt_generated">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="endpoint-libs/libdeviceinfoendpoint-v1/deviceinfoendpoint/deviceinfoendpoint-v1-generated-source"/>
+	<classpathentry kind="src" path="endpoint-libs/libmessageEndpoint-v1/messageEndpoint/messageendpoint-v1-generated-source"/>
+	<classpathentry kind="lib" path="/home/naveen/workspace/Test/war/WEB-INF/lib/appengine-api-1.0-sdk-1.9.15.jar"/>
+	<classpathentry kind="lib" path="/home/naveen/workspace/Test/war/WEB-INF/lib/appengine-api-labs.jar"/>
+	<classpathentry kind="lib" path="/home/naveen/workspace/Test/war/WEB-INF/lib/appengine-endpoints.jar"/>
+	<classpathentry kind="lib" path="/home/naveen/workspace/Test/war/WEB-INF/lib/appengine-endpoints-deps.jar"/>
+	<classpathentry kind="lib" path="/home/naveen/workspace/Test/war/WEB-INF/lib/appengine-jsr107cache-1.9.15.jar"/>
+	<classpathentry kind="lib" path="/home/naveen/workspace/Abhiyaaan/libs/apache-mime4j-0.4.jar.zip"/>
+	<classpathentry kind="lib" path="/home/naveen/workspace/Abhiyaaan/libs/httpclient-4.4-beta1.jar"/>
+	<classpathentry kind="lib" path="/home/naveen/workspace/Abhiyaaan/libs/httpcore-4.4-beta1.jar"/>
+	<classpathentry kind="lib" path="/home/naveen/workspace/Abhiyaaan/libs/httpmime-4.4-beta1.jar"/>
+	<classpathentry kind="lib" path="/home/naveen/workspace/Abhiyaaan/libs/commons-io-2.4-bin.zip"/>
+	<classpathentry kind="lib" path="/home/naveen/adt-bundle-linux-x86_64-20140702/sdk/extras/android/support/v7/appcompat/libs/android-support-v7-appcompat.jar"/>
+	<classpathentry kind="lib" path="/home/naveen/adt-bundle-linux-x86_64-20140702/sdk/extras/android/support/v7/appcompat/libs/android-support-v4.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
